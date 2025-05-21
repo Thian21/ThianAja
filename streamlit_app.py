@@ -1,6 +1,7 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title("ThianAja")
+st.write("Selamat Datang di web Thomas")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "belajar informatika bersama pak Hendry"
 )
